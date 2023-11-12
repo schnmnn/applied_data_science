@@ -1,8 +1,5 @@
 course/
 dev.*
 __pycache__/
-<<<<<<< HEAD
-applied_data_science\Course 1 Introduction to Data Science in Python\week3\course_material\datasets\college_scorecard
-=======
+Amazon_Unlocked_Mobile.zip
 File Course 1 Introduction to Data Science in Python/week3/course_material/datasets/college_scorecard/
->>>>>>> b6d1a41 (update .gitignore)
